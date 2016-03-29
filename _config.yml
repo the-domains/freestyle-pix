@@ -1,0 +1,28 @@
+name: Freestyle Pix
+favicon: null
+layout_spectrum: 0.2791075143031776
+typography_spectrum: 0.27220110571943223
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5954100815579295
+  lightness: 0.09991125692613423
+  saturation: 0.3480391704943031
+  rhythmicContrast: 0.14757328759878874
+purpose: []
