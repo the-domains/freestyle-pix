@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Tennessee
-datePublished: '2016-04-04T22:12:00.846Z'
-dateModified: '2016-04-04T22:11:17.823Z'
+datePublished: '2016-04-04T22:13:26.432Z'
+dateModified: '2016-04-04T22:12:05.333Z'
+title: ''
+author: []
+sourcePath: _posts/2016-04-04-tennessee.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
-sourcePath: _posts/2016-04-04-tennessee.md
-published: true
 url: tennessee/index.html
 _type: Article
 
