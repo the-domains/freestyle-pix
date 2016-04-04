@@ -4,8 +4,15 @@
         <description><![CDATA[FreestylePix]]></description>
         <link>https://thegrid.ai/freestyle-pix/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 22:59:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2016 22:59:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/freestyle-pix/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Animals]]></title>
+            <description><![CDATA[<article><h1>Animals</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/704854f4-ac2b-4fff-b593-07b03d4f356c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/freestyle-pix/animals/index.html</link>
+            <guid isPermaLink="false">2752520a-4eae-461a-875d-d22ae939fd44</guid>
+            <pubDate>Mon, 04 Apr 2016 22:57:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Flowers]]></title>
             <description><![CDATA[<article><h1>Flowers</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fac45f86be16da1f20cdff11550cbc8e9403064a.jpg"></article>]]></description>
