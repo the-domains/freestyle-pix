@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Freestyle Pix]]></title>
         <description><![CDATA[Freestyle Pix]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/freestyle-pix/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 21:24:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Apr 2016 21:35:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/freestyle-pix/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Train Truss]]></title>
+            <description><![CDATA[<article><h1>Train Truss</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/28d79abb19a81fefe2c015cd21d207df1658affa.jpg"></article>]]></description>
+            <link>https://thegrid.ai/freestyle-pix/a5f87442-181b-47ba-8bbc-9e5af3593164/index.html</link>
+            <guid isPermaLink="false">a5f87442-181b-47ba-8bbc-9e5af3593164</guid>
+            <pubDate>Mon, 04 Apr 2016 21:35:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is my first post on the Grid! I have been waiting almost a full year for this moment!</p>]]></description>
-            <link>undefined09e0f2d9-1a7e-48e2-9b44-9ff2c1d55e51/index.html</link>
+            <link>https://thegrid.ai/freestyle-pix/09e0f2d9-1a7e-48e2-9b44-9ff2c1d55e51/index.html</link>
             <guid isPermaLink="false">09e0f2d9-1a7e-48e2-9b44-9ff2c1d55e51</guid>
             <pubDate>Mon, 04 Apr 2016 21:24:19 GMT</pubDate>
         </item>
