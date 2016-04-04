@@ -2,6 +2,7 @@ name: Freestyle Pix
 favicon: null
 layout_spectrum: 0.51324
 typography_spectrum: 0
+title: FreestylePix
 cta:
   domain: null
   bucket: null
